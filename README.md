@@ -18,7 +18,7 @@ pip install earthengine-api geemap
 ## Execution
 
 ```bash
-python script.py [options]
+python demtexture.py [options]
 ```
 ### Options
 
